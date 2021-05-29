@@ -6,8 +6,15 @@
 </head>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
+	<h1>hi im abc</h1>
+	<h1>hi im abc</h1>
+>>>>>>> master
+=======
+
+
 	<h1>hi im abc</h1>
 	<h1>hi im abc</h1>
 >>>>>>> master
